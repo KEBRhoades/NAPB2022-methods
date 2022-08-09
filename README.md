@@ -50,6 +50,8 @@ Heatmaps were generated using the R package [pheatmap](https://www.rdocumentatio
 
 Bolger, A. M., Lohse, M., & Usadel, B. (2014). Trimmomatic: A flexible trimmer for Illumina Sequence Data. Bioinformatics, btu170.
 
+Bray, N.L., Pimentel, H., Melsted, P. and Pachter, L., 2016. Near-optimal probabilistic RNA-seq quantification. Nature biotechnology, 34(5), pp.525-527.
+
 Cai, L. et al. (2019) ‘A fruit firmness QTL identified on linkage group 4 in sweet cherry (Prunus avium L.) is associated with domesticated and bred germplasm’, Scientific Reports, 9(1), p. 5008. Available at: https://doi.org/10.1038/s41598-019-41484-8.
 
 Gasic, K., Hernandez, A. and Korban, S.S. (2004) ‘RNA extraction from different apple tissues rich in polyphenols and polysaccharides for cDNA library construction’, Plant Molecular Biology Reporter, 22(4). Available at: https://doi.org/10.1007/BF02772687.
@@ -59,9 +61,7 @@ Love MI, Huber W, Anders S (2014). “Moderated estimation of fold change and di
 Macková, L., Vít, P. and Urfus, T. (2018) ‘Crop-to-wild hybridization in cherries-Empirical evidence from Prunus fruticosa’, Evolutionary Applications, 11(9), pp. 1748–1759. Available at: https://doi.org/10.1111/eva.12677.
 Wang, J. et al. (2020) ‘Chromosome-scale genome assembly of sweet cherry ( Prunus avium L.) cv. Tieton obtained using long-read and Hi-C sequencing’, Horticulture Research, 7(1), pp. 1–11. Available at: https://doi.org/10.1038/s41438-020-00343-8.
 
-Nicolas L Bray, Harold Pimentel, Páll Melsted and Lior Pachter, Near-optimal probabilistic RNA-seq quantification, Nature Biotechnology 34, 525–527 (2016), doi:10.1038/nbt.3519
-
-James T. Robinson, Helga Thorvaldsdóttir, Aaron M. Wenger, Ahmet Zehir, Jill P. Mesirov. Variant Review with the Integrative Genomics Viewer (IGV). Cancer Research 77(21) 31-34 (2017).
+Robinson, J.T., Thorvaldsdóttir, H., Wenger, A.M., Zehir, A. and Mesirov, J.P., 2017. Variant review with the integrative genomics viewer. Cancer research, 77(21), pp.e31-e34.
 
 Wang, J. et al. (2020) ‘Chromosome-scale genome assembly of sweet cherry ( Prunus avium L.) cv. Tieton obtained using long-read and Hi-C sequencing’, Horticulture Research, 7(1), pp. 1–11. Available at: https://doi.org/10.1038/s41438-020-00343-8.
 
