@@ -73,3 +73,8 @@ Yoo, S.D. et al. (2003) ‘Fruit ripening in sour cherry: Changes in expression 
 [Charity Goeckeritz](mailto:goeckeri@msu.edu),
 [Courtney Hollender](mailto:chollend@msu.edu),
 [Amy Iezzoni](mailto:iezzoni@msu.edu)
+
+### Funding: 
+
+Michigan State University, MSU AgBioResearch Project GREEEN grants GR19 046
+United States Department of Agriculture National Institute of Food and Agriculture project 2014 51181 22378
